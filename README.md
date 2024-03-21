@@ -1,4 +1,4 @@
-[![MasterHead]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb4tngKqJ7sb6BfxKlNRVVbnunnvi8tTZEHoMLS5TVVg&s](https://cdn.dribbble.com/users/970957/screenshots/5504725/gif.gif)](https://datawithlusaka.io)
+[![MasterHead](https://cdn.dribbble.com/users/970957/screenshots/5504725/gif.gif)](https://datawithlusaka.io)
 <h1 align="center">Hi 👋, I'm Moses Lusaka</h1>
 <h3 align="center">A Passionate Data Analyst</h3>
 
