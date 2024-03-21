@@ -1,7 +1,6 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb4tngKqJ7sb6BfxKlNRVVbnunnvi8tTZEHoMLS5TVVg&s)](https://datawithlusaka.io)
+[![MasterHead]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb4tngKqJ7sb6BfxKlNRVVbnunnvi8tTZEHoMLS5TVVg&s](https://cdn.dribbble.com/users/970957/screenshots/5504725/gif.gif)](https://datawithlusaka.io)
 <h1 align="center">Hi 👋, I'm Moses Lusaka</h1>
 <h3 align="center">A Passionate Data Analyst</h3>
-Image img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb4tngKqJ7sb6BfxKlNRVVbnunnvi8tTZEHoMLS5TVVg&s"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=datawithlusaka&label=Profile%20views&color=0e75b6&style=flat" alt="datawithlusaka" /> </p>
 
